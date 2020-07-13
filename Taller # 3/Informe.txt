@@ -1,0 +1,14 @@
+Estudiante: Milagro Muñoz Moya
+
+Funcionalidad:
+Logro realizar la clase vista, controlador y modelo.
+Creo la base de datos y e ingreso datos precargados.
+En el main no logro cargar los tres moledos
+El archivo csv lo lee pero no encuentra el archivo en el directorio.
+
+Alcance:
+
+Presenta varios errores de capa 8. 
+
+Llegué a un punto donde me perdi con la funcionalidad del proyecto. 
+

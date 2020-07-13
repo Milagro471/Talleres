@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/Estilos..css">
+    <!---------------------------unir con la clase css------------------------------->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+
+<body>
+    <!---clase para formar las palabras del login-------------------->
+    <div class="login">
+        <div class="heading">
+            <h2>Login</h2>
+
+            <a class="fecha" href="Index.html">Index</a>
+            <!-------------me devuelve al index----------------->
+
+            <div class="divlogo"><img src="Imagenes/logo 4.png" class="logologin" alt="logo"></div>
+            <form action="validar.js" method="POST">
+
+                <div class="divusuario">
+                    <!---clase para formar el usuario-------------------->
+                    <span class="input-group-addon1"></span>
+                    <input type="text" id="Usuario" class="form-control" placeholder="Usuario" required>
+
+                </div>
+
+                <div class="divcontraseña">
+                    <!---clase para formar la contraseña-------------------->
+                    <span class="input-group-addon2"></span>
+                    <input type="password" id="Contraseña" class="form-control" placeholder="Contraseña" required>
+                    <span class="form_hint">Formato correcto: "Abc123"</span>
+                    <a class="contraseña" href="Recuperacion contraseña.html">¿Olvidaste tú contraseña?</a>
+                    <button type="submit" id="cerrar" class="float">Iniciar Sesión</button>
+            </form>
+            </div>
+        </div>
+        <!-----------unir con la clase js---------------------------------->
+        <script type="text/main.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+Taller #2
+Estudiante: Milagro Muñoz Moya
+Dependencias
+El diseño de patrones MVC va a contar con un modelo, una vista y un controlador en el cual el modelo cuenta con tres clases: departamento, producto y descuento, la cual cada una tiene propias dependencias. Asimismo, la vista se encontraran los mensajes que se mostrarán en el Sistema y el controlador va a depender del modelo y de la vista para poder crear las listas de las clases, los métodos de agregar y actualizar cada lista, Además, el método de agregar un nuevo departamento, producto o descuento y el método del loop y el método main. 
+Arquitectura
+La arquitectura está basado en el diseño de patrones MVC.
+Funcionalidad 
+El objetivo principal del Sistema es que crear tres listas de diferentes una de departamento, una de producto y una de descuento, la cual cada una le solicitara al usuario datos distintos. 
+Alcance
+El Sistema logra manipular la clase modelo, interactuar por medio del controlador a la vista solamente que a la hora de la impresión muestra un error en el método para agregar la vista descuento y no lo logro solucionarlo. 
+
+Enlace del link:
+
+https://github.com/Milagro471/Taller-2/blob/master/README.md

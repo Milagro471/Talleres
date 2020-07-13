@@ -1,0 +1,15 @@
+Taller #1
+Estudiante: Milagro Muñoz Moya
+
+Utilice el módulo math para hacer el cálculo entre la masa y el argón y de esta misma poder conocer la edad a la que pertenece cada piedra.
+Arquitectura
+El taller se está basado en la creación de un ciclo for y un método math.log, el cual devuelve la edad de la piedra.
+Funcionalidad 
+El usuario debe ingresar la cantidad de la muestra una vez que se ingresa el sistema asignará el número de muestra de forma consecutiva, para lo cual iniciara en #1 por el contador y posteriormente deberá ingresar la cantidad de masa y la cantidad de argón, para que el sistema realice el cálculo y nos indique a que edad pertenece. Seguidamente, asigna el número de muestra y solicita los mismos datos que anteriormente se mencionan. 
+Alcance
+El Sistema cumple con el objetivo de solicitarle al usuario los datos que necesita para realizar el cálculo, una vez que se ingresen lograr mostrarlos e indica la era a la que pertenece cada piedra y la cantidad de masa pero no logra volver a pedir los datos cuando se ingresa un dato erróneo.
+
+
+Enlace de link:
+
+https://github.com/Milagro471/Taller-1/blob/master/README.md

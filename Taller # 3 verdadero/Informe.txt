@@ -1,0 +1,14 @@
+Estudiante: Milagro Muñoz Moya
+
+Taller # 3
+
+Funcionalidad:
+
+El Sistema pide el ingreso de datos por consola. Va a pedir el nombre de operador, que digitee la subestacion a la que pertenece y la ciudad en la cual esta ubicada.
+Pide los datos del total de kilowtts consumidos y la cantidad de horas.
+
+Realiza el cálculo e imprime el nombre del operador que lo atendio, la ciudad a la pertenece, el total de consumo y las horas de pico. 
+
+
+Alcalde: El programa guarda los datos en un creado para realizar el cálculo.
+

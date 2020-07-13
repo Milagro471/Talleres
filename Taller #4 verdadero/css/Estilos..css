@@ -1,0 +1,266 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/**************************************************estilos del index************************************************************************/
+
+.Menu-navegacion {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin: 0px;
+    color: rgb(50, 160, 224);
+}
+
+img {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+
+/*************************************************estilos del login***********************************************************************/
+
+input[type="text"],
+input[type="password"] {
+    font-size: 20px;
+    width: 30%;
+    padding: 10px;
+    border: none;
+    text-align: center;
+    left: 40px;
+}
+
+.input-group-addon1 {
+    margin-bottom: 15px;
+}
+
+.input-group-addon2 {
+    margin-bottom: 15px;
+}
+
+.float {
+    border: none;
+    width: 20%;
+    color: #fff;
+    font-size: 20px;
+    background: blue;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.heading {
+    padding: 0 44px;
+}
+
+.divlogo {
+    padding: 0 44px;
+    text-align: center;
+}
+
+.logologin {
+    width: 110px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h2 {
+    position: relative;
+    text-align: center;
+}
+
+a {
+    position: relative;
+    text-align: center;
+}
+
+
+/*************************************************estilos de registrarse********************************************************************/
+
+input[type="text"],
+input[type="password"] {
+    font-size: 20px;
+    width: 30%;
+    padding: 10px;
+    border: none;
+}
+
+.input-group-addon6 {
+    margin-bottom: 15px;
+}
+
+.input-group-addon7 {
+    margin-bottom: 15px;
+}
+
+.input-group-addon8 {
+    margin-bottom: 15px;
+}
+
+.input-group-addon9 {
+    margin-bottom: 15px;
+}
+
+.input-group-addon10 {
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.float3 {
+    border: none;
+    width: 20%;
+    color: #fff;
+    font-size: 20px;
+    background: blue;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Registro {
+    padding: 0 40px;
+}
+
+.divnombre6 {
+    padding: 0 40px;
+}
+
+.divapellid72 {
+    padding: 0 40px;
+}
+
+.divuser8 {
+    padding: 0 40px;
+}
+
+.divcorreo9 {
+    padding: 0 40px;
+}
+
+.divcontraseña10 {
+    padding: 0 40px;
+}
+
+.form-control11 {
+    width: 110px;
+    margin-bottom: 20px;
+}
+
+
+/*************************************************estilos de jugador**********************************************************************/
+
+input[type="text"],
+input[type="password"] {
+    font-size: 20px;
+    width: 30%;
+    padding: 10px;
+    border: none;
+}
+
+.input-group-addon1 {
+    margin-bottom: 15px;
+}
+
+.input-group-addon2 {
+    margin-bottom: 15px;
+}
+
+.input-group-addon3 {
+    margin-bottom: 15px;
+}
+
+.input-group-addon4 {
+    margin-bottom: 15px;
+}
+
+.input-group-addon5 {
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.float1 {
+    border: none;
+    width: 20%;
+    color: #fff;
+    font-size: 20px;
+    background: blue;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.divjugador {
+    padding: 0 40px;
+}
+
+.divnombre {
+    padding: 0 40px;
+}
+
+.divapellido {
+    padding: 0 40px;
+}
+
+.divuser {
+    padding: 0 40px;
+}
+
+.divcorreo {
+    padding: 0 40px;
+}
+
+.divcontra {
+    padding: 0 40px;
+}
+
+.form-control {
+    width: 110px;
+    margin-bottom: 20px;
+}
+
+a {
+    text-align: center;
+}
+
+
+/***********************************************recuperacion de contraseña************************************************/
+
+input[type="text"] {
+    font-size: 20px;
+    width: 30%;
+    padding: 10px;
+    border: none;
+}
+
+.float23 {
+    border: none;
+    width: 20%;
+    color: #fff;
+    font-size: 20px;
+    background: blue;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+/******************************************************************************************************************************/

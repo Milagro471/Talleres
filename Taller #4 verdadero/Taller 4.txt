@@ -1,0 +1,26 @@
+Taller # 4
+
+
+Estudiante: Milagro Muñoz Moya
+
+
+
+Funcionalidad:
+
+La página principal "Index" tiene un menú que te lleva a los diferentes formularios(Login, registrarse y jugadores).
+
+El usuario deberá ingresar su usuario y contraseña para que el sistema lea los datos y los imprima. Si olvido su contraseña deberá ingresa un correo electrónico donde se enviará su contraseña.
+
+En el formulario de registrarse permite registrar nuevos integrantes y lee los archivos.
+
+En el formulario jugadores permite el registro de nuevos jugadores.
+
+Cada formulario tiene la opción de devolverte al index de nuevo.
+
+
+
+Alcance:
+
+
+***No logró entender con claridad el método json.
+

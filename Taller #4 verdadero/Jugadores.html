@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/Estilos..css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jugadores</title>
+</head>
+
+<body>
+    <div class="Jugadores">
+        <div class="divJugador">
+            <h2>Jugadores</h2>
+
+            <!-----me devuelve al index---------------------->
+
+            <div class="divlogo"><img src="Imagenes/baseball-cap.png" class="logologin" alt="logo"></div>
+            <a class="fecha" href="Index.html">Index</a>
+            <form action="#" method="POST">
+
+                <div class="divnombre">
+                    <!---clase para solicitar el nombre-------------------->
+                    <span class="input-group-addon1"></span>
+                    <input type="text" id="Nombre" class="form-control" placeholder="Nombre" required>
+                </div>
+
+                <div class="divapellido">
+                    <!---clase para formar el apellido-------------------->
+                    <span class="input-group-addon2"></span>
+                    <input type="text" id="Apellido" class="form-control" placeholder="Apellido" required>
+                </div>
+
+                <div class="divuser">
+                    <!---clase para formar el usuario-------------------->
+                    <span class="input-group-addon3"></span>
+                    <input type="text" id="User" class="form-control" placeholder="Usuario" required>
+                </div>
+
+                <div class="divcorreo">
+                    <!---clase para formar el correo-------------------->
+                    <span class="input-group-addon4"></span>
+                    <input type="text" id="Correo" class="form-control" placeholder="Correo" required>
+                    <span class="form_hint">Formato correcto: "name@gmail.com"</span>
+                </div>
+
+                <div class="divcontra">
+                    <!---clase para formar la contraseña-------------------->
+                    <span class="input-group-addon5"></span>
+                    <input type="password" id="Contra" class="form-control" placeholder="Contraseña" required>
+                    <span class="form_hint">Formato correcto: "Abc123"</span>
+                    <button type="submit" class="float1">Jugador registrado</button>
+
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script type="text/main.js" src="doc.JSON"></script>
+
+</body>
+
+</html>
